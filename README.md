@@ -1,6 +1,6 @@
 # Problem set 3
 
-This problem set is due Tues March 12 at 11:59pm EST through Stellar. This Github repo contains the write-up, starter notebook, and the code used to extract the data. The data is available on Physionet, specifically adult_dc_concepts.csv and adult_dc_summaries.csv . Please let us know ASAP if you have any issues accessing the data.
+This problem set is due Tues March 12 at 11:59pm EST through Stellar. This Github repo contains the write-up, starter notebook, and the code used to extract the data. The data is available on [Physionet](https://physionet.org/works/MLHC19PS1/files/), specifically adult_dc_concepts.csv and adult_dc_summaries.csv . Please let us know ASAP if you have any issues accessing the data.
 
 In the body of this exercise, blue text describes what specifically you should be submitting. If you have any questions about what the wording of the questions mean, ask us on Piazza!
 
